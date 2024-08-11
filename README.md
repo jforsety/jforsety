@@ -4,7 +4,7 @@
 Я начинающий бэкенд разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. 
 
 ### 💻 Мои скилы:
-[![My Skills](https://skillicons.dev/icons?i=py,django,html,css,postman,sqlite,linux,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,django,html,css,js,postman,sqlite,linux,git,github)](https://skillicons.dev)
 
 ### 💻 Codewars:
 
